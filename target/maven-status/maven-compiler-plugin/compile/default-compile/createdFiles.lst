@@ -1,0 +1,16 @@
+com\bpm\configuration\CORSFilter.class
+com\bpm\configuration\BpmConfiguration.class
+com\bpm\controller\CartController.class
+com\bpm\dao\inf\CatalogDao.class
+com\bpm\dao\inf\CurrencyDao.class
+com\bpm\model\Currency.class
+com\bpm\dao\impl\CurrencyDaoImpl.class
+com\bpm\service\CatalogServiceImpl.class
+com\bpm\model\CartItem.class
+com\bpm\configuration\BpmInitializer.class
+com\bpm\dao\impl\CatalogDaoImpl.class
+com\bpm\dao\inf\AbstractDao.class
+com\bpm\configuration\JpaConfiguration.class
+com\bpm\model\CatalogItem.class
+com\bpm\controller\CatalogController.class
+com\bpm\service\CatalogServiceInf.class
